@@ -2,10 +2,12 @@
 
 one:
   name: MyString
-  stars: 1
-  location: MyString
+  address: MyString
+  phone_number: MyString
+  category: MyString
 
 two:
   name: MyString
-  stars: 1
-  location: MyString
+  address: MyString
+  phone_number: MyString
+  category: MyString
